@@ -1,1 +1,2 @@
 # LSH-implementation
+Locality Sensitive Hashing(LSH) is one of the fastest ways to search when working with data with high dimensions. In this mini-project, I implemented the LSH. I used min-hashing as my hash function as it is compatible with the LSH framework. More explanations on implementation are available in code.
